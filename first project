@@ -1,10 +1,7 @@
 #include <iostream> 
 using namespace std;
 
-int main() 
-  { 
-     cout <<"Hello world, my name is Reem" end; 
-
-
+int main()   { 
+     cout << "Hello world, I am Reem!" << endl; 
 return 0;
   }
